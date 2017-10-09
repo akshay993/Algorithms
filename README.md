@@ -1,2 +1,2 @@
-# DataStructures-Algorithms
-Programming related to DSA
+# Algorithms
+Implementing Algorithms
